@@ -2,14 +2,12 @@
 
 ## Student Details
 
-- **Full Name:** `Dmitriy Limanets`
-- **CCID:** `limanets`
+- **Full Name:** `<Enter name>`
+- **CCID:** `<Enter ccid>`
 
 ## References and Resources
 
 List any resources used here, or simply put `N/A` if not applicable.
-
-N/A
 
 ## Verbal Collaboration
 
